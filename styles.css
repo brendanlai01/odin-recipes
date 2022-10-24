@@ -25,3 +25,7 @@ img {
 .list.recipe{
     list-style: none;
 }
+
+.steps li{
+    padding: 5px 0px;
+}
