@@ -9,7 +9,19 @@ img {
     height: auto;
 }
 
+.header{
+    color:#8be9fd;
+}
+
+.instructions{
+    text-align: left;
+}
+
 .list {
     display: table;
     margin: 0 auto;
+}
+
+.list.recipe{
+    list-style: none;
 }
