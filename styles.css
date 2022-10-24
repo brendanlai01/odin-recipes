@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: #282a36;
+    color: #f8f8f2;
+}
+
+#cuisine {
+    width: 900px;
+    height: auto;
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+}
